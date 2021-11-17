@@ -5,8 +5,8 @@
   - [x] Koseva
 
 ## Library
-- [x] [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> he2paleo](https://github.com/yehuthi/he2paleo): Hebrew &rightarrow; Paleo-Hebrew script conversion.
-- [x] [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="TypeScript" width=16 height=16 align=baseline /> deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
+- [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> he2paleo](https://github.com/yehuthi/he2paleo): Hebrew &rightarrow; Paleo-Hebrew script conversion.
+- [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="TypeScript" width=16 height=16 align=baseline /> deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 
 ## Notes
 - [x] [Hebrew Latinization Table](https://gist.github.com/yehuthi/2879158005f8b3b27f49bdd5e7caee87)
