@@ -1,7 +1,7 @@
 ## End-User
 - [ ] [Atara](https://yehuthi.github.io/Atara/)
   - [x] Koseva
-- [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
+  - [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 - [x] [Historef](https://yehuthi.github.io/historef/): Israel's oref (home-front) rocket red-alert history.
 
 ## Library
