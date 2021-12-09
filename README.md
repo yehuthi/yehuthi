@@ -6,8 +6,6 @@
 
 [ ] [BMI Calculator](https://yehuthi.github.io/bmi/)
 
-asd
-
 ## Library
 - [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> he2paleo](https://github.com/yehuthi/he2paleo): Hebrew &rightarrow; Paleo-Hebrew script conversion.
 - [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> unniqqud](https://github.com/yehuthi/unniqqud-js): Remove Hebrew diacritics from strings.
