@@ -1,4 +1,4 @@
-// yarn add --dev webpack webpack-cli typescript ts-loader sass sass-loader css-loader style-loader html-webpack-plugin
+// yarn add --dev webpack webpack-cli typescript ts-loader sass sass-loader css-loader style-loader html-webpack-plugin mini-css-extract-plugin
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
