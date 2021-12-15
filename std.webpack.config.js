@@ -37,6 +37,7 @@ module.exports = {
 			template: "src/index.html",
 			title: "My Page",
 		}),
+		new MiniCssExtractPlugin(),
 	],
 	optimization: {
 		usedExports: true,
