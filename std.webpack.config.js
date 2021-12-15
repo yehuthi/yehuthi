@@ -1,4 +1,4 @@
-// yarn add --dev webpack webpack-cli typescript ts-loader sass sass-loader css-loader style-loader html-webpack-plugin mini-css-extract-plugin
+// yarn add --dev webpack webpack-cli typescript ts-loader sass sass-loader css-loader style-loader html-webpack-plugin mini-css-extract-plugin webpack-dev-server
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
@@ -31,10 +31,13 @@ module.exports = {
 	plugins: [
 		new HtmlWebpackPlugin({
 			template: "src/index.html",
-			title: "My Page"
+			title: "My Page",
 		}),
 	],
 	optimization: {
 		usedExports: true,
+	},
+	devServer: {
+		static: "./dist",
 	},
 };
