@@ -1,0 +1,24 @@
+{
+	"Derive All": {
+		"prefix": "derive",
+		"body": [
+			"#[derive(Debug, Hash, Default, Clone, Copy, PartialEq, PartialOrd, Eq, Ord)]"
+		],
+		"description": "Derives all standard derivable traits."
+	},
+	"Cargo: Package Name": {
+		"prefix": "cargo_package_name",
+		"body": ["env!(\"CARGO_PKG_NAME\")"],
+		"description": "Inserts a macro that evaluates to a &str of the name of the current Cargo package."
+	},
+	"Cargo: Package Version": {
+		"prefix": "cargo_package_version",
+		"body": ["env!(\"CARGO_PKG_VERSION\")"],
+		"description": "Inserts a macro that evaluates to a &str of the version of the current Cargo package."
+	},
+	"Cargo: Package Description": {
+		"prefix": "cargo_package_description",
+		"body": ["env!(\"CARGO_PKG_DESCRIPTION\")"],
+		"description": "Inserts a macro that evaluates to a &str of the description of the current Cargo package."
+	}
+}
