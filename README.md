@@ -3,6 +3,7 @@
   - [x] Koseva
   - [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 - [ ] [Historef](https://yehuthi.github.io/historef/): Israel's oref (home-front) rocket red-alert history.
+- [x] [he2paleo Demo](https://yehuthi.github.io/he2paleo/)
 
 ---
 
