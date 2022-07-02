@@ -1,5 +1,5 @@
 ## End-User
-- [x] [Koseva](https://github.com/yehuthi/koseva)
+- [x] [Koseva](https://github.com/yehuthi/koseva): Paleo-Hebrew browser extension.
 - [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 - [x] [DiscordTS](https://yehuthi.github.io/discordts/)
 - [x] [he2paleo Demo](https://yehuthi.github.io/he2paleo/)
