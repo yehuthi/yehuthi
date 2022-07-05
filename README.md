@@ -1,8 +1,8 @@
 ## End-User
 - [x] [Koseva](https://github.com/yehuthi/koseva): Paleo-Hebrew browser extension.
 - [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
-- [x] [DiscordTS](https://yehuthi.github.io/discordts/)
-- [x] [he2paleo Demo](https://yehuthi.github.io/he2paleo/)
+- [x] [DiscordTS](https://yehuthi.github.io/discordts/): Discord Timestamps
+- [x] [he2paleo Demo](https://yehuthi.github.io/he2paleo/): Convert Hebrew to Paleo-Hebrew. Soon superseded.
 
 ## Library
 - [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> he2paleo](https://github.com/yehuthi/he2paleo): Hebrew &rightarrow; Paleo-Hebrew script conversion.
