@@ -1,7 +1,7 @@
 ## End-User
 - [x] [Koseva](https://github.com/yehuthi/koseva): Paleo-Hebrew browser extension.
-- [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 - [ ] [Tatqan](https://yehuthi.github.io/tatqan/): Convert Hebrew to Paleo-Hebrew with a rich virtual keyboard.
+- [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 - [x] [DiscordTS](https://yehuthi.github.io/discordts/): Discord Timestamps
 
 
