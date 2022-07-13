@@ -1,4 +1,5 @@
 ## End-User
+- [x] [Paleo KBL](https://github.com/yehuthi/Paleo_KBL): Paleo-Hebrew keyboard layout for Windows.
 - [x] [Koseva](https://github.com/yehuthi/koseva): Paleo-Hebrew browser extension.
 - [ ] [Tatqan](https://yehuthi.github.io/tatqan/): Convert Hebrew to Paleo-Hebrew with a rich virtual keyboard.
 - [x] [deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
