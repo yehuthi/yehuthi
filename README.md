@@ -10,6 +10,7 @@
 - [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> deathrip](https://github.com/yehuthi/deathrip): Dead Sea Scrolls image ripper.
 - [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> serenity_ctrlc](https://github.com/yehuthi/serenity_ctrlc): Graceful Ctrl+C handler for serenity bots.
 - [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> currencyapi](https://github.com/yehuthi/currencyapi-rs): Rust currencyapi bindings.
+- [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> round_mult](https://github.com/yehuthi/round_mult): round a number up or down to a multiplier.
 
 ## Notes
 - [x] [Hebrew Latinization Table](https://gist.github.com/yehuthi/2879158005f8b3b27f49bdd5e7caee87)
