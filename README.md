@@ -1,3 +1,4 @@
+<!--
 ## End-User
 - [x] [Paleo KBL](https://github.com/yehuthi/Paleo_KBL): Paleo-Hebrew keyboard layout for Windows.
 - [ ] [Koseva](https://github.com/yehuthi/koseva): Paleo-Hebrew browser extension.
@@ -15,3 +16,4 @@
 ## Notes
 - [x] [Hebrew Latinization Table](https://gist.github.com/yehuthi/2879158005f8b3b27f49bdd5e7caee87)
 - [ ] [Near-East National Gods](https://gist.github.com/yehuthi/8da5e04993a931aeaa7ff41c1a423d70)
+-->
