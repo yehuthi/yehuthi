@@ -1,1 +1,10 @@
 hard_tabs = true
+fn_single_line = true
+force_explicit_abi = true
+use_field_init_shorthand = true
+enum_discrim_align_threshold = 30
+struct_field_align_threshold = 30
+imports_granularity = "Crate"
+group_imports = "StdExternalCrate"
+reorder_impl_items = true
+indent_style = "Visual"
