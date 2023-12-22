@@ -1,3 +1,4 @@
+# ~/.config/rustfmt/rustfmt.toml
 hard_tabs = true
 fn_single_line = true
 force_explicit_abi = true
