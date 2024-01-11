@@ -1,6 +1,7 @@
 
 
 ## End-User
+- [x] [linuxflip](https://github.com/yehuthi/linuxflip): Detects and executes commands when the computer switches to and from tablet mode.
 - [x] [WinLock](https://github.com/yehuthi/winlock): Customize the keyboard shortcut for session locking on Windows.
 - [x] [Diverter](https://github.com/yehuthi/diverter): Switch between Steam accounts without relogging on Windows.
 - [x] [Koseva](https://github.com/yehuthi/koseva): Paleo-Hebrew browser extension.
