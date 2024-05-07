@@ -3,7 +3,7 @@
 - [x] [WinLock](https://github.com/yehuthi/winlock): Customize the keyboard shortcut for session locking on Windows.
 - [x] [Diverter](https://github.com/yehuthi/diverter): Switch between Steam accounts without relogging on Windows.
 - [x] [DiscordTS](https://yehuthi.github.io/discordts/): Discord timestamps.
-- [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> israelid](https://github.com/yehuthi/israelid): Israeli ID number validation.
+- [x] [israelid](https://github.com/yehuthi/israelid): Israeli ID number validation.
 - [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> israelid.js](https://github.com/yehuthi/israelid.js): Israeli ID number validation.
 
 ## Libraries
