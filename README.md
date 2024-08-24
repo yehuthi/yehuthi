@@ -1,5 +1,4 @@
 ## Utilities
-- [x] [c_unreachable](https://github.com/yehuthi/c_unreachable): C unreachable compiler hint.
 - [x] [linuxflip](https://github.com/yehuthi/linuxflip): Detects and executes commands when the computer switches to and from tablet mode.
 - [x] [WinLock](https://github.com/yehuthi/winlock): Customize the keyboard shortcut for session locking on Windows.
 - [x] [Diverter](https://github.com/yehuthi/diverter): Switch between Steam accounts without relogging on Windows.
@@ -8,6 +7,7 @@
 - [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> israelid.js](https://github.com/yehuthi/israelid.js): Israeli ID number validation.
 
 ## Libraries
+- [x] [c_unreachable](https://github.com/yehuthi/c_unreachable): C unreachable compiler hint.
 - [x] [<img title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width=16 height=16 align=baseline /> infield](https://github.com/yehuthi/infield): Infield label HTML custom element.
 - [x] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> serenity_ctrlc](https://github.com/yehuthi/serenity_ctrlc): Graceful Ctrl+C handler for serenity bots.
 - [ ] [<img title="Rust" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width=16 height=16 align=baseline /> currencyapi](https://github.com/yehuthi/currencyapi-rs): Rust currencyapi bindings.
